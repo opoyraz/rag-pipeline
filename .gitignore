@@ -1,0 +1,13 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+*.pyo
+
+# Qdrant persistence (if you switch from :memory: to disk)
+qdrant_db/
+
+# Python
+.venv/
+*.egg-info/
+dist/

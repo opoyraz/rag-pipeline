@@ -1,0 +1,7 @@
+sentence-transformers
+qdrant-client
+langchain-text-splitters
+groq
+anthropic
+python-dotenv
+ollama
