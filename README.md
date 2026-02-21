@@ -89,7 +89,7 @@ QDRANT = QdrantClient(url="https://your-cluster.qdrant.io", api_key="...")
 
 **1. Clone and install dependencies**
 ```bash
-git clone https://github.com/your-username/rag-pipeline.git
+git clone https://github.com/opoyraz/rag-pipeline.git
 cd rag-pipeline
 pip install -r requirements.txt
 ```
